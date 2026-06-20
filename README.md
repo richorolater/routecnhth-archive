@@ -1,2 +1,14 @@
 # routecnhth-archive
-HTML page archive and documentation
+
+页面文件整理目录
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 访问说明
+
+如果启用了 GitHub Pages，页面可通过对应 Pages 地址访问。
